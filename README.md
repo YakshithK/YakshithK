@@ -1,49 +1,27 @@
-# Yakshith – AI dev shipping real products
+# Yakshith
 
-[Website](https://www.yakshithk.com/) · [LinkedIn](https://www.linkedin.com/in/yakshith-kommineni-86a5a5294/) · [X](https://x.com/yakshith_k) · [Email](mailto:yakshith.kommineni@gmail.com)
+I build research and engineering systems for people working with complex data.
 
-I’m a student building AI-native tools that people actually use — mostly around agents, automation, and applied ML.
+## Now
 
----
+**[Mantis](https://github.com/KellisLab/Mantis)** is a research platform at MIT CSAIL's Kellis Lab that helps researchers explore datasets as navigable maps instead of querying tables.
 
-### 🚀 What I’m building
+- Researchers turn plain requests into working analysis apps.
+- Linked maps show the same entity across datasets.
+- People search text, audio, and images in the same way.
+- The platform gets a full security review.
 
-- **Level0** – Autonomous agent that turns text prompts into Phaser games  
-  `TypeScript · Node · Phaser · LLMs`  
-  → Focus: multi-agent orchestration, tool use, and automatic game generation.
+## Featured
 
-- **ClearTrust** – Tools to prevent financial scams targeting the elderly (₿ 1.5k+ in grants)  
-  `Python · ML · Backend`  
-  → Focus: fraud pattern detection, simple UX for non-technical users.
+### **[lolbench](https://github.com/YakshithK/lolbench)**
 
-- **lumios-client / lumios-website** – AI-native video tooling (cursor-for-editors direction)  
-  `TypeScript · React · Node`  
-  → Focus: fast iteration on AI workflows and agents for creative work.[page:1]
+People use this public benchmark to test whether language models understand, produce, and judge humor. It compares 13 models across 396 items. The board reports 26,662 judgments. Live at [lolbench.lol](https://lolbench.lol).
 
-- **vish** – CLI “vision shell” in Rust for automating workflows with AI  
-  `Rust`  
-  → Focus: agentic CLI, scripting repetitive dev tasks.[page:1]
+### **[AgentBoard](https://github.com/YakshithK/Agentboard)**
 
-- **K-Logic / muse_chess / furnish.ai / schizoDetect** – experiments in HCI, accessibility, and applied ML.[page:1]
+This macropad lets developers drive Claude Code and Codex sessions with three keys and an encoder. Its single-sided board has 199 SMD parts; the total build cost is $148.81.
 
----
+## Earlier
 
-### 🧠 What I’m good at
-
-- **Languages**: Python, TypeScript/JavaScript, C++, Rust.[page:1]
-- **AI/ML**: LLMs, prompt + tool design, small RL setups, applied ML (tabular + basic CV/NLP).
-- **Systems**: building full-stack apps (React/Node), CLIs, and glue code around APIs.
-- **Other**: shipping fast, iterating in public, and debugging weird edge cases at 2am.
-
-### 🎯 Currently
-
-- Building agentic AI tools and infra for creators and automation-heavy workflows.
-- Deepening Rust + systems skills for more robust tooling.
-- Open to collaborations and internships where I can ship real product, not toy demos.
-
----
-
-### 📫 Reach out
-
-If you’re working on AI agents, dev tools, or video/creator tooling, I want to talk.  
-DM me on [X](https://x.com/yakshith_k) or email [yakshith.kommineni@gmail.com](mailto:yakshith.kommineni@gmail.com).
+- **[Level0](https://github.com/YakshithK/level0_main)** - Turned plain-language prompts into playable Phaser browser games (Mar 2026) ([talk](https://www.youtube.com/watch?v=wYIRPnZmMSU)).
+- **ClearTrust** - Built a companion robot to help older adults identify financial scams and access reminders and safety features.
